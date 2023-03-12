@@ -1,14 +1,14 @@
 body {
-    background-color: rgb(134, 202, 241);
-    color: rgb(44, 42, 41);
+    background-color: rgb(41, 40, 39);
+    color: rgb(241, 227, 101);
     font-family: 'Josefin Sans', sans-serif;
 }
 
 .content {
     display: flex;
     flex-direction: column;
-    font-size: 30px;
-    margin: 5px 150px 20px 150px;
+    font-size: 25px;
+    margin: 5px 500px 20px 500px;
 }
 
 .content img {
@@ -20,3 +20,9 @@ body {
 .content h1 {
     text-align: center;
 }
+
+.content .j {
+    color: rgb(243, 202, 21);
+    font-weight: bold;
+}
+
