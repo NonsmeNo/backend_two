@@ -8,7 +8,8 @@ body {
     display: flex;
     flex-direction: column;
     font-size: 25px;
-    margin: 5px 500px 20px 500px;
+    margin: 30px auto;
+    max-width: 700px;
 }
 
 .content img {
